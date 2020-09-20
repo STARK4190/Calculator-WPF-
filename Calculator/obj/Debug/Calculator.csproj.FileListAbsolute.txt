@@ -1,0 +1,13 @@
+C:\Users\prate\source\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\prate\source\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\prate\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\prate\source\repos\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\prate\source\repos\Calculator\obj\Debug\App.g.cs
+C:\Users\prate\source\repos\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\prate\source\repos\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\prate\source\repos\Calculator\obj\Debug\MainWindow.baml
+C:\Users\prate\source\repos\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\prate\source\repos\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\prate\source\repos\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\prate\source\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\prate\source\repos\Calculator\obj\Debug\Calculator.pdb
